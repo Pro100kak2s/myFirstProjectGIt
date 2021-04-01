@@ -1,2 +1,6 @@
+<<<<<<< HEAD
+branch2
+=======
+branch1
 Hello world!
-qwrwerq
+>>>>>>> branch1
