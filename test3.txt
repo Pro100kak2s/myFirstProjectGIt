@@ -1,5 +1,5 @@
 master
 Hello world!
 a
-b
+bb
 c
