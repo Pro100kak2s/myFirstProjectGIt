@@ -1,4 +1,4 @@
-branch1
+master
 Hello world!
 a
 b
